@@ -1,0 +1,21 @@
+{
+    "name": "Prem Prakash Kalauni",
+    "version": "1.0.0",
+    "description": "Prem Prakash Kalauni",
+    "main": "index.js",
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "preview": "vite preview",
+      "host": "vite --host"
+    },
+    "keywords": [],
+    "author": "Prem Prakash Kalauni",
+    "license": "MIT",
+    "dependencies": {
+      "gsap": "^3.13.0",
+      "lenis": "^1.3.3",
+      "vite": "^6.3.5"
+    }
+  }
+  
