@@ -2,7 +2,7 @@ import { defineConfig } from "vite";
 import { resolve } from "path";
 
 export default defineConfig({
-   base: "/mass-gsap/",
+   base: "/",
   build: {
     rollupOptions: {
       input: {
